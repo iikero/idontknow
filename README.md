@@ -1,1 +1,2 @@
-# idontknow
+# Aarabic-bot
+discordyou23
